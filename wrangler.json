@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "submission-code-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "01f82613-b6e5-464c-9aab-584eb1ca4b1b",
+			"database_name": "d1-submission-codes"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
